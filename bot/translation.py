@@ -38,19 +38,19 @@ class Translation(object):
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
 
 
-© <b>@DFF_UPDATE</b>        
+© <b>@FilmZoneX</b>        
 """
     
     ABOUT_TEXT = """
-<b>Deploy</b>
+<b>Source</b>
 
 <i>●You can't use this bot so deploy your own bot.
 ●You can deploy this bot anywhere.</i>
 
-<i>⚠️ Watch Deploying Tutorial...
-- https://youtu.be/KTearEPhumc</i>
+<i>⚠️ For Deploy Contact My owner
+- https://t.me/Films_bot_Panther</i>
 
-➡️ Repo: https://github.com/DFF01/BetterAutoFilterBot
+🔈CHANNEL :- @FilmZoneX
 
-© <b>@DFF_UPDATE</b>
+© <b>@FilmZoneX</b>
 """ 
