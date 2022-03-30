@@ -29,10 +29,10 @@ async def start(bot, update):
 Join on our channel to get movies ✅
 
 
-⚠️താങ്കൾ ഞങ്ങളുടെ ചാനൽ സബ്സ്ക്രൈബ് ചെയ്തിട്ട് ഇല്ല ! ⚠️
+🔈 Join @FilmZoneX to use me ! ⚠️
 
 
-ഞങ്ങളുടെ ചാനലിൽ ജോയിൻ ചെയ്യതാൽ താങ്കൾക്ക് movies കിട്ടുന്നത് ആണ് ✅
+Join main channel to get unlimited movies ✅
 
 ⬇️Channel link⬇️ </b>""",
                 reply_markup=InlineKeyboardMarkup([
@@ -66,7 +66,7 @@ Join on our channel to get movies ✅
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/DFF_UPDATE"
+                                    'Developers', url="https://t.me/FilmZoneX"
                                 )
                         ]
                     ]
@@ -85,7 +85,7 @@ Join on our channel to get movies ✅
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/DFF_UPDATE"
+                                    'Developers', url="https://t.me/FilmZoneX"
                                 )
                         ]
                     ]
@@ -104,7 +104,7 @@ Join on our channel to get movies ✅
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/DFF_Update"
+                                    'Developers', url="https://t.me/FilmZoneX"
                                 )
                         ]
                     ]
@@ -161,7 +161,7 @@ async def about(bot, update):
     buttons = [[
         InlineKeyboardButton('Home ⚡', callback_data='start'),
    ],[
-        InlineKeyboardButton('Deploy To Heroku', url='https://tinyurl.com/yxtho3zv'),
+        InlineKeyboardButton('Channel', url='https://t.me/Filmzonex'),
    ],[ 
         InlineKeyboardButton('Close 🔐', callback_data='close')
    ]]  
